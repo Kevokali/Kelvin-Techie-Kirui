@@ -1,6 +1,7 @@
 ### 🌍 Hey there, I'm Kelvin Kirui! 🚀
 
 **Geospatial Engineer | GIS & AI Enthusiast | Web Developer**  
+> "Geospatial intelligence isn’t just about understanding the world; it’s about redefining how we see it." 🔍🌍
 
 🔭 Passionate about **mapping the world** using GIS, remote sensing, and AI.  
 💡 Combining **geospatial technology & web development** with Next.js, Python, and JavaScript.  
@@ -8,7 +9,6 @@
 🚀 Always learning **blockchain, version control, and full-stack GIS development.**  
 🎯 **Mission:** Innovate with geospatial intelligence for real-world solutions.  
 
-> "Geospatial intelligence isn’t just about understanding the world; it’s about redefining how we see it." 🔍🌍
 
 ---
 
