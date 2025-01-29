@@ -12,20 +12,13 @@
 
 ### 🚀 **Tech Stack & Tools:**
 
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
+![Open Source Tools](https://img.shields.io/badge/Open%20Source-008080?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-ff7043?style=for-the-badge&logo=pandas&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-34A853?style=for-the-badge&logo=google-earth&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-### 📊 **GitHub Stats:**
-
-![Techie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
 
 ---
 
@@ -39,6 +32,5 @@
 
 ### 📬 **Let's Connect!**
 
-💼 **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/your-profile)  
-🌐 **Portfolio:** [Your Portfolio](https://your-portfolio.com)  
-📧 **Email:** your-email@example.com  
+💼 **LinkedIn:** (https://linkedin.com/in/kelvin-kirui-techie)   
+📧 **Email:** engvoke@gmail.com | kevintechie38@gmail.com
