@@ -1,4 +1,4 @@
-### 🌍 Hey there, I'm Techie! 🚀
+### 🌍 Hey there, I'm Kelvin Kirui! 🚀
 
 **Geospatial Engineer | GIS & AI Enthusiast | Web Developer**  
 
