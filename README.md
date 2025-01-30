@@ -37,5 +37,5 @@
 
 ### 📬 **Let's Connect!**
 
-💼 **LinkedIn:** (https://linkedin.com/in/kelvin-kirui-techie)   
+💼 **LinkedIn:** https://linkedin.com/in/kelvin-kirui-techie   
 📧 **Email:** engvoke@gmail.com | kevintechie38@gmail.com
